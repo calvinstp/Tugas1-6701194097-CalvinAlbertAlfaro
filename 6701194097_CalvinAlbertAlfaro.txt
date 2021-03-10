@@ -2,3 +2,6 @@ Nama	: Calvin Albert Alfaro
 NIM	: 6701194097
 TTL	: Medan, 2 Oktober 2001
 IP	: 3,55
+
+Hobi	: Foto
+Cita-cita : Videografer
